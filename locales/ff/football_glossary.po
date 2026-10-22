@@ -1,0 +1,775 @@
+# Master Football Glossary Template for Pulaar Localization
+
+# Generated for VS Code & GitHub workflow optimization
+
+# =========================================================================
+
+# CATEGORY: Pitch & Equipment
+
+# =========================================================================
+
+#. french: Ballon
+msgid "Ball"
+msgstr ""
+
+#. french: Terrain / Pelouse
+msgid "Pitch"
+msgstr ""
+
+#. french: Poteau / Cage
+msgid "Goalpost"
+msgstr ""
+
+#. french: Filet
+msgid "Net"
+msgstr ""
+
+#. french: Drapeau de corner
+msgid "Corner flag"
+msgstr ""
+
+#. french: Sifflet
+msgid "Whistle"
+msgstr ""
+
+#. french: Barre transversale
+msgid "Crossbar"
+msgstr ""
+
+#. french: Rond central
+msgid "Center Circle"
+msgstr ""
+
+#. french: Point d'envoi
+msgid "Center Spot"
+msgstr ""
+
+#. french: Surface de réparation
+msgid "Penalty Area"
+msgstr ""
+
+#. french: Surface de but
+msgid "Goal Area"
+msgstr ""
+
+#. french: Ligne de touche
+msgid "Touchline"
+msgstr ""
+
+#. french: Ligne de touche
+msgid "Sideline"
+msgstr ""
+
+#. french: Ligne médiane
+msgid "Halfway Line"
+msgstr ""
+
+#. french: Zone technique
+msgid "Technical Area"
+msgstr ""
+
+#. french: Banc de touche
+msgid "Dugout"
+msgstr ""
+
+#. french: Tableau d'affichage
+msgid "Scoreboard"
+msgstr ""
+
+#. french: Projecteurs / Éclairage
+msgid "Floodlights"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Positions & People
+
+# =========================================================================
+
+#. french: Gardien de but
+msgid "Goalkeeper"
+msgstr ""
+
+#. french: Défenseur
+msgid "Defender"
+msgstr ""
+
+#. french: Milieu de terrain
+msgid "Midfielder"
+msgstr ""
+
+#. french: Attaquant
+msgid "Forward"
+msgstr ""
+
+#. french: Buteur / Attaquant de pointe
+msgid "Striker"
+msgstr ""
+
+#. french: Arbitre
+msgid "Referee"
+msgstr ""
+
+#. french: Arbitre assistant
+msgid "Assistant Referee"
+msgstr ""
+
+#. french: Arbitre de touche
+msgid "Linesman"
+msgstr ""
+
+#. french: Quatrième arbitre
+msgid "Fourth Official"
+msgstr ""
+
+#. french: Assistance vidéo à l'arbitrage
+msgid "Video Assistant Referee (VAR)"
+msgstr ""
+
+#. french: Entraîneur
+msgid "Coach"
+msgstr ""
+
+#. french: Capitaine
+msgid "Captain"
+msgstr ""
+
+#. french: Manager / Entraîneur principal
+msgid "Manager"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Rules & Gameplay
+
+# =========================================================================
+
+#. french: Hors-jeu
+msgid "Offside"
+msgstr ""
+
+#. french: Faute
+msgid "Foul"
+msgstr ""
+
+#. french: Penalty
+msgid "Penalty"
+msgstr ""
+
+#. french: Coup franc
+msgid "Free kick"
+msgstr ""
+
+#. french: Coup franc direct
+msgid "Direct Free Kick"
+msgstr ""
+
+#. french: Coup franc indirect
+msgid "Indirect Free Kick"
+msgstr ""
+
+#. french: Corner
+msgid "Corner kick"
+msgstr ""
+
+#. french: Touche
+msgid "Throw-in"
+msgstr ""
+
+#. french: Main
+msgid "Handball"
+msgstr ""
+
+#. french: Règle de l'avantage
+msgid "Advantage Rule"
+msgstr ""
+
+#. french: Changement / Remplacement
+msgid "Substitution"
+msgstr ""
+
+#. french: Piège du hors-jeu
+msgid "Offside Trap"
+msgstr ""
+
+#. french: Jeu dangereux
+msgid "Dangerous Play"
+msgstr ""
+
+#. french: Conduite violente
+msgid "Violent Conduct"
+msgstr ""
+
+#. french: Simulation
+msgid "Diving"
+msgstr ""
+
+#. french: Simulation
+msgid "Simulation"
+msgstr ""
+
+#. french: Faute tactique / cynique
+msgid "Professional Foul"
+msgstr ""
+
+#. french: Faute tactique
+msgid "Tactical Foul"
+msgstr ""
+
+#. french: Dégagement des 6 mètres
+msgid "Goal Kick"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Actions & Match Events
+
+# =========================================================================
+
+#. french: Passe
+msgid "Pass"
+msgstr ""
+
+#. french: Tir / Frappe
+msgid "Shoot"
+msgstr ""
+
+#. french: Dribble
+msgid "Dribble"
+msgstr ""
+
+#. french: Tacle
+msgid "Tackle"
+msgstr ""
+
+#. french: Tête
+msgid "Header"
+msgstr ""
+
+#. french: But
+msgid "Goal"
+msgstr ""
+
+#. french: But contre son camp
+msgid "Own goal"
+msgstr ""
+
+#. french: Mi-temps
+msgid "Half-time"
+msgstr ""
+
+#. french: Fin du match
+msgid "Full-time"
+msgstr ""
+
+#. french: Prolongations
+msgid "Extra time"
+msgstr ""
+
+#. french: Séance de tirs au but
+msgid "Penalty shootout"
+msgstr ""
+
+#. french: Coup d'envoi
+msgid "Kick-off"
+msgstr ""
+
+#. french: Corner
+msgid "Corner"
+msgstr ""
+
+#. french: Reprise de volée
+msgid "Volley"
+msgstr ""
+
+#. french: Demi-volée
+msgid "Half-volley"
+msgstr ""
+
+#. french: Retourné acrobatique / Ciseau
+msgid "Bicycle Kick"
+msgstr ""
+
+#. french: Retourné acrobatique
+msgid "Overhead Kick"
+msgstr ""
+
+#. french: Tir enroulé
+msgid "Curled Shot"
+msgstr ""
+
+#. french: Tir enroulé / brossé
+msgid "Bending Shot"
+msgstr ""
+
+#. french: Interception
+msgid "Interception"
+msgstr ""
+
+#. french: Tir contré
+msgid "Blocked Shot"
+msgstr ""
+
+#. french: Passe en profondeur
+msgid "Through Ball"
+msgstr ""
+
+#. french: Centre
+msgid "Cross"
+msgstr ""
+
+#. french: Lucarne
+msgid "Top Corner"
+msgstr ""
+
+#. french: Lucarne
+msgid "Upper Ninety"
+msgstr ""
+
+#. french: Tir à ras de terre
+msgid "Low Shot"
+msgstr ""
+
+#. french: Tir à ras de terre
+msgid "Daisy Cutter"
+msgstr ""
+
+#. french: Lob / Ballon piqué
+msgid "Chip Shot"
+msgstr ""
+
+#. french: Lob
+msgid "Lob"
+msgstr ""
+
+#. french: Temps additionnel
+msgid "Injury Time"
+msgstr ""
+
+#. french: Temps additionnel
+msgid "Stoppage Time"
+msgstr ""
+
+#. french: Carton jaune
+msgid "Yellow Card"
+msgstr ""
+
+#. french: Carton rouge
+msgid "Red Card"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Goals, Misses & Celebrations
+
+# =========================================================================
+
+#. french: Ouverture du score
+msgid "Opening Goal"
+msgstr ""
+
+#. french: Égalisation
+msgid "Equalizer"
+msgstr ""
+
+#. french: But victorieux
+msgid "Winning Goal"
+msgstr ""
+
+#. french: Coup du chapeau (3 buts)
+msgid "Hat-trick"
+msgstr ""
+
+#. french: Doublé (2 buts)
+msgid "Brace"
+msgstr ""
+
+#. french: Montant / Cadre
+msgid "Woodwork"
+msgstr ""
+
+#. french: Occasion manquée de peu
+msgid "Near Miss"
+msgstr ""
+
+#. french: Occasion ratée
+msgid "Blown Chance"
+msgstr ""
+
+#. french: Célébration de but
+msgid "Goal Celebration"
+msgstr ""
+
+#. french: Glissade sur les genoux
+msgid "Knee Slide"
+msgstr ""
+
+#. french: Retrait du maillot
+msgid "Shirt Removal"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Tournaments & Competitions
+
+# =========================================================================
+
+#. french: Tournoi
+msgid "Tournament"
+msgstr ""
+
+#. french: Championnat
+msgid "Championship"
+msgstr ""
+
+#. french: Coupe
+msgid "Cup"
+msgstr ""
+
+#. french: Phase de poules
+msgid "Group Stage"
+msgstr ""
+
+#. french: Phase à élimination directe
+msgid "Knockout Stage"
+msgstr ""
+
+#. french: Huitième de finale
+msgid "Round of 16"
+msgstr ""
+
+#. french: Quart de finale
+msgid "Quarter-final"
+msgstr ""
+
+#. french: Demi-finale
+msgid "Semi-final"
+msgstr ""
+
+#. french: Finale
+msgid "Final"
+msgstr ""
+
+#. french: Tenant du titre
+msgid "Defending Champion"
+msgstr ""
+
+#. french: Outsider / Petit poucet
+msgid "Underdog"
+msgstr ""
+
+#. french: Favori
+msgid "Favorite"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Fans & Stadium
+
+# =========================================================================
+
+#. french: Stade
+msgid "Stadium"
+msgstr ""
+
+#. french: Tribune
+msgid "Grandstand"
+msgstr ""
+
+#. french: Tribune / Gradins
+msgid "Bleachers"
+msgstr ""
+
+#. french: Gradins
+msgid "Terraces"
+msgstr ""
+
+#. french: Envahissement du terrain
+msgid "Pitch Invasion"
+msgstr ""
+
+#. french: Billetterie
+msgid "Ticket Office"
+msgstr ""
+
+#. french: Tourniquet
+msgid "Turnstile"
+msgstr ""
+
+#. french: Supporters
+msgid "Supporters"
+msgstr ""
+
+#. french: Fans
+msgid "Fans"
+msgstr ""
+
+#. french: Chants
+msgid "Chants"
+msgstr ""
+
+#. french: Chants de supporters
+msgid "Songs"
+msgstr ""
+
+#. french: Ultras
+msgid "Ultras"
+msgstr ""
+
+#. french: Avantage à domicile
+msgid "Home Advantage"
+msgstr ""
+
+#. french: Supporters visiteurs
+msgid "Away Fans"
+msgstr ""
+
+#. french: Ovation debout
+msgid "Standing Ovation"
+msgstr ""
+
+#. french: Ola
+msgid "Mexican Wave"
+msgstr ""
+
+#. french: Huées / Sifflets
+msgid "Boos"
+msgstr ""
+
+#. french: Sifflets
+msgid "Jeers"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Tactics & Strategy
+
+# =========================================================================
+
+#. french: Formation tactique
+msgid "Tactical Formation"
+msgstr ""
+
+#. french: Contre-attaque
+msgid "Counter-attack"
+msgstr ""
+
+#. french: Pressing haut
+msgid "High Pressing"
+msgstr ""
+
+#. french: Contre-pressing
+msgid "Counter-pressing"
+msgstr ""
+
+#. french: Marquage de zone
+msgid "Zonal Marking"
+msgstr ""
+
+#. french: Marquage individuel
+msgid "Man-to-Man Marking"
+msgstr ""
+
+#. french: Jeu de possession
+msgid "Possession Football"
+msgstr ""
+
+#. french: Garer le bus / Défense basse
+msgid "Park the Bus"
+msgstr ""
+
+#. french: Jeu long
+msgid "Long-ball Strategy"
+msgstr ""
+
+#. french: Jeu direct
+msgid "Direct Play"
+msgstr ""
+
+#. french: Dédoublement extérieur
+msgid "Overlapping Run"
+msgstr ""
+
+#. french: Dédoublement intérieur
+msgid "Underlapping Run"
+msgstr ""
+
+#. french: Bloc bas
+msgid "Low Block"
+msgstr ""
+
+#. french: Bloc médian
+msgid "Mid Block"
+msgstr ""
+
+#. french: Bloc haut
+msgid "High Block"
+msgstr ""
+
+#. french: Faux neuf
+msgid "False Nine"
+msgstr ""
+
+#. french: Milieu box-to-box / Relayeur
+msgid "Box-to-Box Midfielder"
+msgstr ""
+
+#. french: Ailier inversé
+msgid "Inverted Winger"
+msgstr ""
+
+#. french: Phase de transition
+msgid "Transition Phase"
+msgstr ""
+
+#. french: Plan de jeu
+msgid "Game Plan"
+msgstr ""
+
+#. french: Changement tactique
+msgid "Tactical Substitution"
+msgstr ""
+
+# =========================================================================
+
+# CATEGORY: Medical & Fitness
+
+# =========================================================================
+
+#. french: Staff médical
+
+Utilisez le code avec précaution.
+msgid "Medical Staff"
+msgstr ""
+#. french: Kinésithérapeute
+msgid "Physiotherapist"
+msgstr ""
+#. french: Kiné
+msgid "Physio"
+msgstr ""
+#. french: Médecin du club
+msgid "Club Doctor"
+msgstr ""
+#. french: Civière / Brancard
+msgid "Stretcher"
+msgstr ""
+#. french: Brancardiers
+msgid "Stretcher-bearers"
+msgstr ""
+#. french: Forme compétitive
+msgid "Match Fitness"
+msgstr ""
+#. french: Prêt physiquement
+msgid "Match Fit"
+msgstr ""
+#. french: Échauffement
+msgid "Warm-up"
+msgstr ""
+#. french: Récupération / Décrassage
+msgid "Cooling Down"
+msgstr ""
+#. french: Endurance / Souffle
+msgid "Stamina"
+msgstr ""
+#. french: Endurance
+msgid "Endurance"
+msgstr ""
+#. french: Hécatombe de blessures
+msgid "Injury Crisis"
+msgstr ""
+#. french: Déchirure de l'ischio-jambier
+msgid "Hamstring Tear"
+msgstr ""
+#. french: Entorse de la cheville
+msgid "Ankle Sprain"
+msgstr ""
+#. french: Rupture des ligaments croisés
+msgid "Knee Ligament Injury (ACL)"
+msgstr ""
+#. french: Protocole commotion
+msgid "Concussion Protocol"
+msgstr ""
+#. french: Crampe
+msgid "Cramp"
+msgstr ""
+#. french: Contusion / Bleu
+msgid "Bruise"
+msgstr ""
+#. french: Phase de rééducation
+msgid "Recovery Phase"
+msgstr ""
+#. french: Test physique
+msgid "Fitness Test"
+msgstr ""
+#. french: Fatigue / Épuisement
+msgid "Fatigue"
+msgstr ""
+#. french: Changement sur blessure
+msgid "Substitute due to Injury"
+msgstr ""
+=========================================================================
+CATEGORY: Transfers & Finance
+=========================================================================
+#. french: Mercato / Fenêtre de transferts
+msgid "Transfer Window"
+msgstr ""
+#. french: Indemnité de transfert
+msgid "Transfer Fee"
+msgstr ""
+#. french: Clause libératoire
+msgid "Release Clause"
+msgstr ""
+#. french: Clause de rachat
+msgid "Buyout Clause"
+msgstr ""
+#. french: Prêt
+msgid "Loan"
+msgstr ""
+#. french: Prolongation de contrat
+msgid "Contract Extension"
+msgstr ""
+#. french: Joueur libre
+msgid "Free Agent"
+msgstr ""
+#. french: Transfert gratuit
+msgid "Free Transfer"
+msgstr ""
+#. french: Prime à la signature
+msgid "Signing-on Fee"
+msgstr ""
+#. french: Prime de performance
+msgid "Performance Bonus"
+msgstr ""
+#. french: Agent de joueur
+msgid "Agent"
+msgstr ""
+#. french: Visite médicale
+msgid "Medical Examination"
+msgstr ""
+#. french: La visite médicale
+msgid "Medical"
+msgstr ""
+#. french: Rupture de contrat
+msgid "Contract Termination"
+msgstr ""
+#. french: Rumeur de transfert
+msgid "Transfer Rumor"
+msgstr ""
+#. french: Échange de joueurs
+msgid "Swap Deal"
+msgstr ""
+#. french: Clause à la revente
+msgid "Sell-on Clause"
+msgstr ""
+#. french: Salaires
+msgid "Wages"
+msgstr ""
+#. french: Plafond salarial
+msgid "Salary Cap"
+msgstr ""
+#. french: Pré-contrat
+msgid "Pre-contract Agreement"
+msgstr ""
+#. french: Sponsoring / Parrainage
+msgid "Sponsorship"
+msgstr ""
