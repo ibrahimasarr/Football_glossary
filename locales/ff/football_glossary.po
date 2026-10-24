@@ -10,7 +10,7 @@
 
 #. french: Ballon
 msgid "Ball"
-msgstr ""
+msgstr "bal"
 
 #. french: Terrain / Pelouse
 msgid "Pitch"
@@ -22,47 +22,47 @@ msgstr ""
 
 #. french: Filet
 msgid "Net"
-msgstr ""
+msgstr "caccungol"
 
 #. french: Drapeau de corner
 msgid "Corner flag"
-msgstr ""
+msgstr "beywal "
 
 #. french: Sifflet
 msgid "Whistle"
-msgstr ""
+msgstr "Liital"
 
 #. french: Barre transversale
 msgid "Crossbar"
-msgstr ""
+msgstr "Palajal"
 
 #. french: Rond central
 msgid "Center Circle"
-msgstr ""
+msgstr "Kowal hakundeewal"
 
 #. french: Point d'envoi
 msgid "Center Spot"
-msgstr ""
+msgstr "Wullo hakundeewo"
 
 #. french: Surface de réparation
 msgid "Penalty Area"
-msgstr ""
+msgstr "Boowel fiyannde"
 
 #. french: Surface de but
 msgid "Goal Area"
-msgstr ""
+msgstr "Boowel deenoowo"
 
 #. french: Ligne de touche
 msgid "Touchline"
-msgstr ""
+msgstr "Diidol sawndo"
 
 #. french: Ligne de touche
 msgid "Sideline"
-msgstr ""
+msgstr "Diidol sawndo"
 
 #. french: Ligne médiane
 msgid "Halfway Line"
-msgstr ""
+msgstr "Diidol hakundeewol"
 
 #. french: Zone technique
 msgid "Technical Area"
@@ -70,15 +70,15 @@ msgstr ""
 
 #. french: Banc de touche
 msgid "Dugout"
-msgstr ""
+msgstr "Fonngorde"
 
 #. french: Tableau d'affichage
 msgid "Scoreboard"
-msgstr ""
+msgstr "Alluwal jaytino"
 
 #. french: Projecteurs / Éclairage
 msgid "Floodlights"
-msgstr ""
+msgstr "Biiworɗe"
 
 # =========================================================================
 
@@ -88,43 +88,43 @@ msgstr ""
 
 #. french: Gardien de but
 msgid "Goalkeeper"
-msgstr ""
+msgstr "Deenoowo"
 
 #. french: Défenseur
 msgid "Defender"
-msgstr ""
+msgstr "Paddo"
 
 #. french: Milieu de terrain
 msgid "Midfielder"
-msgstr ""
+msgstr "Hakundeejo"
 
 #. french: Attaquant
 msgid "Forward"
-msgstr ""
+msgstr "Yeeseejo"
 
 #. french: Buteur / Attaquant de pointe
 msgid "Striker"
-msgstr ""
+msgstr "Kartotooɗo"
 
 #. french: Arbitre
 msgid "Referee"
-msgstr ""
+msgstr "Ñaawoowo"
 
 #. french: Arbitre assistant
 msgid "Assistant Referee"
-msgstr ""
+msgstr "Cukko ñaawoowo"
 
 #. french: Arbitre de touche
 msgid "Linesman"
-msgstr ""
+msgstr "Deenoowo sawndo"
 
 #. french: Quatrième arbitre
 msgid "Fourth Official"
-msgstr ""
+msgstr "Denoowo nayaɓo"
 
 #. french: Assistance vidéo à l'arbitrage
 msgid "Video Assistant Referee (VAR)"
-msgstr ""
+msgstr "Waalde Ñaawirooɓe Widewo (WAAR)"
 
 #. french: Entraîneur
 msgid "Coach"
@@ -132,7 +132,7 @@ msgstr ""
 
 #. french: Capitaine
 msgid "Captain"
-msgstr ""
+msgstr "Bees"
 
 #. french: Manager / Entraîneur principal
 msgid "Manager"
@@ -150,31 +150,31 @@ msgstr ""
 
 #. french: Faute
 msgid "Foul"
-msgstr ""
+msgstr "Furgere"
 
 #. french: Penalty
 msgid "Penalty"
-msgstr ""
+msgstr "Piypiyal"
 
 #. french: Coup franc
 msgid "Free kick"
-msgstr ""
+msgstr "Fiyannde pawal"
 
 #. french: Coup franc direct
 msgid "Direct Free Kick"
-msgstr ""
+msgstr "Fiyannde pawal beƴƴal"
 
 #. french: Coup franc indirect
 msgid "Indirect Free Kick"
-msgstr ""
+msgstr "Fiyannde pawal Lompal"
 
 #. french: Corner
 msgid "Corner kick"
-msgstr ""
+msgstr "Fiyannde collo"
 
 #. french: Touche
 msgid "Throw-in"
-msgstr ""
+msgstr "Werlannde"
 
 #. french: Main
 msgid "Handball"
@@ -227,15 +227,15 @@ msgstr ""
 # =========================================================================
 
 #. french: Passe
-msgid "Pass"
+msgid "Paafal"
 msgstr ""
 
 #. french: Tir / Frappe
-msgid "Shoot"
+msgid "Pettal"
 msgstr ""
 
 #. french: Dribble
-msgid "Dribble"
+msgid "Duulo"
 msgstr ""
 
 #. french: Tacle
@@ -271,7 +271,7 @@ msgid "Penalty shootout"
 msgstr ""
 
 #. french: Coup d'envoi
-msgid "Kick-off"
+msgid "Kurmal"
 msgstr ""
 
 #. french: Corner
@@ -280,7 +280,7 @@ msgstr ""
 
 #. french: Reprise de volée
 msgid "Volley"
-msgstr ""
+msgstr "Luujo"
 
 #. french: Demi-volée
 msgid "Half-volley"
@@ -315,7 +315,7 @@ msgid "Through Ball"
 msgstr ""
 
 #. french: Centre
-msgid "Cross"
+msgid "Junnito"
 msgstr ""
 
 #. french: Lucarne
@@ -530,7 +530,7 @@ msgstr ""
 
 #. french: Ola
 msgid "Mexican Wave"
-msgstr ""
+msgstr "Olaa meksikeejo"
 
 #. french: Huées / Sifflets
 msgid "Boos"
@@ -624,7 +624,7 @@ msgstr ""
 
 #. french: Plan de jeu
 msgid "Game Plan"
-msgstr ""
+msgstr "Njuɓɓudi fetto"
 
 #. french: Changement tactique
 msgid "Tactical Substitution"
@@ -638,9 +638,8 @@ msgstr ""
 
 #. french: Staff médical
 
-Utilisez le code avec précaution.
 msgid "Medical Staff"
-msgstr ""
+msgstr "Goomu Safrooɓe"
 #. french: Kinésithérapeute
 msgid "Physiotherapist"
 msgstr ""
@@ -707,9 +706,11 @@ msgstr ""
 #. french: Changement sur blessure
 msgid "Substitute due to Injury"
 msgstr ""
-=========================================================================
-CATEGORY: Transfers & Finance
-=========================================================================
+
+#  =========================================================================
+#  CATEGORY: Transfers & Finance
+#  =========================================================================
+
 #. french: Mercato / Fenêtre de transferts
 msgid "Transfer Window"
 msgstr ""
